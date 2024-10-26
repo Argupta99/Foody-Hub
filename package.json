@@ -1,0 +1,11 @@
+{
+  "name": "foody-hub",
+  "version": "1.0.0",
+  "description": "Foody hub website by Arpita",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Arpita",
+  "license": "ISC"
+}
